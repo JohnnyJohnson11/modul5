@@ -1,0 +1,14 @@
+D:\jurnalMod5\bin\Debug\net8.0\jurnalMod5.exe
+D:\jurnalMod5\bin\Debug\net8.0\jurnalMod5.deps.json
+D:\jurnalMod5\bin\Debug\net8.0\jurnalMod5.runtimeconfig.json
+D:\jurnalMod5\bin\Debug\net8.0\jurnalMod5.dll
+D:\jurnalMod5\bin\Debug\net8.0\jurnalMod5.pdb
+D:\jurnalMod5\obj\Debug\net8.0\jurnalMod5.GeneratedMSBuildEditorConfig.editorconfig
+D:\jurnalMod5\obj\Debug\net8.0\jurnalMod5.AssemblyInfoInputs.cache
+D:\jurnalMod5\obj\Debug\net8.0\jurnalMod5.AssemblyInfo.cs
+D:\jurnalMod5\obj\Debug\net8.0\jurnalMod5.csproj.CoreCompileInputs.cache
+D:\jurnalMod5\obj\Debug\net8.0\jurnalMod5.dll
+D:\jurnalMod5\obj\Debug\net8.0\refint\jurnalMod5.dll
+D:\jurnalMod5\obj\Debug\net8.0\jurnalMod5.pdb
+D:\jurnalMod5\obj\Debug\net8.0\jurnalMod5.genruntimeconfig.cache
+D:\jurnalMod5\obj\Debug\net8.0\ref\jurnalMod5.dll
